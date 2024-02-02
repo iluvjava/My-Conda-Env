@@ -172,4 +172,4 @@ dependencies:
   - zipp=3.11.0=py312hca03da5_0
   - zlib=1.2.13=h53f4e23_5
   - zstd=1.5.5=hd90d995_0
-prefix: /opt/homebrew/Caskroom/miniforge/base/envs/dc_base
+
